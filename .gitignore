@@ -131,3 +131,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+/react-web/node_modules
+/react-web/build
+/VSBDT/.vs

@@ -9,6 +9,5 @@
 * npm run start
 
 ![image](https://github.com/Vilhelmasss/Booking-Website/assets/12648716/f40f649a-b394-4a25-87b0-9895833c9f50)
-![image](https://github.com/Vilhelmasss/Booking-Website/assets/12648716/2e9a738e-e399-4cd8-8392-0c22b489f66c)![image](https://github.com/Vilhelmasss/Booking-Website/assets/12648716/494ce633-b434-4b6f-8c9a-35b6a0a946bb)
-
+![image](https://github.com/Vilhelmasss/Booking-Website/assets/12648716/494ce633-b434-4b6f-8c9a-35b6a0a946bb)![image](https://github.com/Vilhelmasss/Booking-Website/assets/12648716/ed29807c-c1b2-4dd6-9fe7-be8b35a0f1f0)
 ![image](https://github.com/Vilhelmasss/Booking-Website/assets/12648716/8ef3a5a9-1efd-4d11-ac9b-440ebd6a399c)
